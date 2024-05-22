@@ -14,7 +14,7 @@ html {
     box-sizing: border-box;
     /*hack para el manejo de box model*/
     background-image: linear-gradient(to top, var(--grisClaro) 0%, var(--blanco) 100%);
-    scroll-snap-type: y mandatory; /*y simbolisa que el scrooll sera de manera vertical. Mandatpry define que tan estricto se requiere el scroll*/
+    scroll-snap-type: y mandatory; /*y simboliza que el scrooll sera de manera vertical. Mandatpry define que tan estricto se requiere el scroll*/
 }
 /* Scroll snap */
 .titulo, .servicios-heading, .contacto-heading{
